@@ -1,4 +1,4 @@
-# Watch Time Increase Software by Talha Baig Hacker
+# Email Bombing Software by Talha Baig Hacker
 
 Welcome to the Email Bombing Software project by Talha Baig Hacker.
 
