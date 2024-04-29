@@ -1,0 +1,17 @@
+-----------------------------------------------
+Gmail SMTP Server
+-----------------------------------------------
+smtp.googlemail.com
+465
+TLS/SSL required: yes
+
+-----------------------------------------------
+Mail.com SMTP Server
+-----------------------------------------------
+smtp.mail.com
+587 (alternatives: 465 and 25)
+TLS/SSL required: yes 
+
+----------------------------------------------
+
+http://t3stmails.000webhostapp.com
