@@ -1,6 +1,6 @@
 # Watch Time Increase Software by Talha Baig Hacker
 
-Welcome to the Email Bombing Software project by Talha Baig Hacker[^1^][4].
+Welcome to the Email Bombing Software project by Talha Baig Hacker.
 
 ## What is a mail bomb?
 
@@ -21,7 +21,8 @@ You can follow Talha Baig Hacker on these platforms:
 - Twitter    `^https://www.twitter.com/talhabaig007^`
 - Facebook   `^https://www.facebook.com/profile.php?id=100063795712836^`
 - Instagram  `^https://www.instagram.com/talhabaig007^`
-- LinkedIn   `^https://www.Linkedin.com/talhabaig007^`
+- LinkedIn   `^https://www.Linkedin.com/talhabaig007^
+- Website   `^https://www.talhabaig.tech^`
 
 
 ## Contributing
